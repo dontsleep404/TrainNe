@@ -1,0 +1,16 @@
+Hải có hai số nguyên dương a và b, Hải muốn tạo ra số c bằng cách ghép các chữ số của a và của b. sao cho các chữ số trong a và b xuất hiện trong c theo thứ tự như lúc đầu. Hãy đưa ra số lớn nhất có thể ghép được theo yêu cầu trên.
+
+Input:
+    - Dòng duy nhất chứa 2 số a và b(1 <= a, b<= 10^18)
+Output:
+    Kết quả của bài toán
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+8642 531
+Output:
+8654321
+
+Giải thích:
+[Hình ảnh]

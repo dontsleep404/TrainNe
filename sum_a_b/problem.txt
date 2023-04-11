@@ -1,0 +1,8 @@
+Nhập vào jai số tự nhiên a và b, tìm và im ra tổng các số tự nhiên >=a và <=b.
+(0 <= a, b <= 10^9)
+
+Test case mẫu:
+Input:
+2 4
+Output:
+9

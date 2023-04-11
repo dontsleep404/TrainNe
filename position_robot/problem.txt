@@ -1,0 +1,17 @@
+Hải có một robot hút rác dùng để thực hiện hút rác trên một đường thẳng, ban đầu robot đặt tại điểm có tọa độ là 0. Robor sẽ được điều khiển theo mỗi chuỗi s, nếu găp ký tự 'L' nó sẽ qua trái 1 đơn vị, còn nếu gặp ký tự 'R' nó sẽ qua phải một đơn vị. 
+
+Cho chuỗi s chỉ gồm các ký tự 'L' và 'R', hãy tính số tọa độ mà robot đã đi qua.
+Input:
+    - Dòng duy nhất chứa chuỗi hoạt động của robot số a và b(1 <= |s| <= 10^5)
+Output:
+    Kết quả của bài toán
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+LRLRLRRR
+Output:
+4
+
+Giải thích:
+Robot di chuyên qua 4 toạ độ là -1, 0, 1, 2
